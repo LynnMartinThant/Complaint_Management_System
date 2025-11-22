@@ -1,4 +1,4 @@
-Complaint Management System - Starter Project
+The software Architecture for Complaint Management System 
 
 How to run:
 1. Install Java 17+ and Maven.
